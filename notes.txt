@@ -1,0 +1,10 @@
+portfolio
+-use index.html to create a folder
+-use always small letter
+-give diff name to the css of index page not use index
+nagivation bar,landing or body
+about me 
+contact 
+skills
+projects
+
